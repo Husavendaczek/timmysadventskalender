@@ -11,15 +11,12 @@ image: "img/3.jpg"
 
 [Weihnachtsbaum falten](https://www.youtube.com/watch?v=V-CriO8W10c)
 
-Tanne:
-https://www.youtube.com/watch?v=kWOKAyUndoY
+[Tanne falten](https://www.youtube.com/watch?v=kWOKAyUndoY)
 
-Stern:
-https://www.youtube.com/watch?v=i89JU15mQ8U
+[Stern falten ](https://www.youtube.com/watch?v=i89JU15mQ8U)
 
-Papier Diamanten:
-https://www.youtube.com/watch?v=oy0kfmsk5z0
+[Papier Diamanten falten](https://www.youtube.com/watch?v=oy0kfmsk5z0)
 
-Korkuntersetzer bemalen: https://www.edding.com/de-de/ideen/idee/korkuntersetzer-bemalen/
+[Korkuntersetzer bemalen](https://www.edding.com/de-de/ideen/idee/korkuntersetzer-bemalen/)
 
 ![Untersetzer](../img/Untersetzer.png){:width="660"}
