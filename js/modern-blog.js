@@ -12,7 +12,9 @@ var demo = (function (window) {
         pattern: '.pattern',
         card: '.card',
         cardImage: '.card__image',
-        cardClose: '.card__btn-close'
+        cardClose: '.card__btn-close',
+        cardTitle: '.card__title',
+        toTop: '.card__top'
     };
 
     /**
@@ -123,12 +125,29 @@ var demo = (function (window) {
 
             var cardImage = $card.find(SELECTORS.cardImage);
             var cardClose = $card.find(SELECTORS.cardClose);
+            var cardToTop = $card.find(SELECTORS.toTop);
 
             $(cardImage).on('click', function () {
                 location.hash = $card.attr(ATTRIBUTES.id);
             });
             $(cardClose).on('click', function () {
                 location.hash = '';
+            });
+            $(cardToTop).on('click', function () {
+                console.log("click it");
+                $(this).parents(SELECTORS.card).animate({
+                    scrollTop: 1
+                }, "slow");
+            });
+
+            $(window).scroll(function() {
+                console.log("scrolling");
+                if ($(this).scrollTop() > 100) {
+                    console.log("show");
+                    $card.find(SELECTORS.toTop).show();
+                } else {
+                    $card.find(SELECTORS.toTop).hide();
+                }
             });
         });
     };

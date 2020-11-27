@@ -7,34 +7,34 @@ image: "img/5.jpg"
 
 ![Timmy](../img/5.jpg){:width="660"}
 
-### Timmys Weihnachtsfilmliste auf Netflix:
-* Der Grinch
+## Timmys Weihnachtsfilmliste auf Netflix:
+### Der Grinch
 ![Grinch](../img/grinch.jpg){:width="660"}
-* Stirb langsam
+### Stirb langsam
 ![Die hard](../img/hard.jpg){:width="660"}
-* Holidate
+### Holidate
 ![Holidate](../img/holidate.jpg){:width="660"}
-* Angela's Christmas Wish
+### Angela's Christmas Wish
 ![Angela](../img/angela.jpg){:width="660"}
-* The Knight before Christmas
+### The Knight before Christmas
 ![Knight](../img/knight.jpg){:width="660"}
-* Charlie und die Schokoladenfabrik
+### Charlie und die Schokoladenfabrik
 ![Charlie](../img/charlie.jpg){:width="660"}
-* Drei Haselnüsse für Aschenbrödel
+### Drei Haselnüsse für Aschenbrödel
 ![Aschen](../img/aschen.jpg){:width="660"}
 
-### Timmys Weihnachtsfilmliste auf Amazon Prime:
-* Der Grinch
+## Timmys Weihnachtsfilmliste auf Amazon Prime:
+### Der Grinch
 ![Grinch](../img/grinch.jpg){:width="660"}
-* Tatsächlich...Liebe
+### Tatsächlich...Liebe
 ![Liebe](../img/liebe.jpg){:width="660"}
-* Krampus
+### Krampus
 ![Krampus](../img/krampus.jpg){:width="660"}
-* Drei Haselnüsse für Aschenbrödel
+### Drei Haselnüsse für Aschenbrödel
 ![Aschen](../img/aschen.jpg){:width="660"}
-* Die Eisprinzen
+### Die Eisprinzen
 ![Eisprinzen](../img/eisprinzen.jpg){:width="660"}
-* Ein Hund rettet die Weihnachtsferien
+### Ein Hund rettet die Weihnachtsferien
 ![Hund](../img/dog.jpg){:width="660"}
-* Völlig verrückte Weihnachten
+### Völlig verrückte Weihnachten
 ![Crazy](../img/crazy.jpg){:width="660"}
