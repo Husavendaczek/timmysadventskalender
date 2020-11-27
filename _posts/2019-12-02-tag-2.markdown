@@ -6,5 +6,4 @@ image: "img/2.jpg"
 ---
 
 ![Timmy](../img/2.jpg){:width="660"}
-
 Ideen findet man eigentlich überall, ob auf Pinterest, Youtube oder Instagram.
