@@ -5,6 +5,8 @@ subtitle: "Timmy bastelt Weihnachtsdeko."
 image: "img/3.jpg"
 ---
 
+![Timmy](../img/3.jpg){:width="660"}
+
 ## Weihnachtsdeko selbst basteln
 
 ### Aber was?
