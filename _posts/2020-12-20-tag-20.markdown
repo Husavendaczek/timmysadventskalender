@@ -1,8 +1,9 @@
 ---
 title:  "20. Türchen"
 date:   2020-12-20 00:00:00 +0100
-subtitle: "3. Advent"
+subtitle: "Timmy zündet die vierte Kerze an."
 image: "img/20.jpg"
 ---
 
-Timmy zündet die vierte Kerze an.
+![Timmy](../img/20.jpg){:width="660"}
+Timmy wünscht euch einen schönen 4. Advent!

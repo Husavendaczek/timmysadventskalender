@@ -1,8 +1,8 @@
 ---
 title:  "22. Türchen"
 date:   2020-12-22 00:00:00 +0100
-subtitle: "Timmy backt Plätzchen."
+subtitle: "Timmy schmückt den Baum."
 image: "img/22.jpg"
 ---
 
-Timmy schmückt den Baum.
+![Timmy](../img/22.jpg){:width="660"}

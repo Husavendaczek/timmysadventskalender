@@ -1,8 +1,10 @@
 ---
 title:  "5. Türchen"
 date:   2020-12-05 00:00:00 +0100
-subtitle: "Timmy backt Plätzchen."
+subtitle: "Timmy schaut einen Weihnachtsfilm."
 image: "img/5.jpg"
 ---
 
-Timmy schaut einen Weihnachtsfilm.
+![Timmy](../img/5.jpg){:width="660"}
+
+TODO Liste mit Weihnachtsfilmen auf Netflix und Amazon Prime.

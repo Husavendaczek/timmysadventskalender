@@ -1,8 +1,9 @@
 ---
 title:  "23. Türchen"
 date:   2020-12-23 00:00:00 +0100
-subtitle: "Morgen Kinder, wird's was geben"
+subtitle: "Timmy kann vor Aufregung und Vorfreude kaum arbeiten."
 image: "img/23.jpg"
 ---
 
-Timmy kann vor Aufregung und Vorfreude kaum arbeiten.
+![Timmy](../img/23.jpg){:width="660"}
+Morgen Kinder, wird's was geben...

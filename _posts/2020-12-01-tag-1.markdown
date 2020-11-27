@@ -5,4 +5,6 @@ subtitle: "Timmy backt Plätzchen."
 image: "img/1.jpg"
 ---
 
-Timmy backt Plätzchen.
+![Timmy](../img/1.jpg){:width="660"}
+
+TODO Rezepte für Plätzchen
