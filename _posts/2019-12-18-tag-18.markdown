@@ -7,4 +7,22 @@ image: "img/18.jpg"
 
 ![Timmy](../img/18.jpg){:width="660"}
 
-TODO Rezept
+## Bratapfel
+
+### Zutaten
+* 4 Bio-Äpfel, am besten Boskoop
+* 50 g Mandelsplitter
+* 50 g Rosinen
+* 4 TL Bio-Honig oder eine vegane Alternative
+* 1 Prise Zimt
+* etwas Margarine (palmölfrei).
+
+1. Fette die Auflaufform mit etwas Margarine ein.
+Wasche die Äpfel, schneide das Kerngehäuse heraus und setzt sie in die Auflaufform.
+
+2. Mische für die Füllung die Mandelsplitter, Rosinen, Honig und Zimt miteinander.
+
+3. Fülle die Äpfel gleichmäßig mit dieser Mischung.
+Auf jeden Apfel setzt du am Ende noch eine Flocke Margarine.
+
+4. Dann ab damit in den Ofen bei 200° C für circa 30 Minuten. Den Backofen musst du übrigens nicht vorheizen – das spart Energie.
