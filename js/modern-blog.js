@@ -159,6 +159,11 @@ var demo = (function (window) {
         });
     };
 
+    function topFunction() {
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      }
+
     /**
      * Create a sequence for the open or close animation and play.
      * @param {boolean} isOpenClick Flag to detect when it's a click to open.
