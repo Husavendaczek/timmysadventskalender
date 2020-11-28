@@ -272,6 +272,25 @@ var Card = (function (window) {
         return tween;
     };
 
+    Card.prototype.onscroll = function() {myFunction()};
+
+    function myFunction() {
+        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+            console.log("show");
+            /*toTop = document.getElementById(".card__top");
+            toTop.classList.remove('card__top_hidden');*/
+        } else {
+            console.log("hide");
+            /*toTop = document.getElementById(".card__top");
+            toTop.classList.add('card__top_hidden');*/
+        }
+    }
+
+    function topFunction() {
+        Card.prototype.document.body.scrollTop = 0; // For Safari
+        Card.prototype.document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      }
+
     return Card;
 
 })(window);
