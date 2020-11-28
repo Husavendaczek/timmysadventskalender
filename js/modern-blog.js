@@ -135,8 +135,7 @@ var demo = (function (window) {
             });
             $(toTop).on('click', function () {
                 console.log("click it");
-                console.log(card);
-                $(card).scrollTo(0,0);
+                window.scrollTo(0,0);
             });
         });
     };
@@ -318,6 +317,17 @@ var demo = (function (window) {
             _triggerOpenCard(oldHash, newHash);
         });
     };
+
+    window.onscroll = function() {myFunction()};
+
+    function myFunction() {
+        console.log("scrooll");
+        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+            console.log("show");
+        } else {
+            console.log("hide");
+        }
+    }
 
     // Expose methods.
     return {
