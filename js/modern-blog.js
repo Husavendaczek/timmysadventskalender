@@ -13,7 +13,8 @@ var demo = (function (window) {
         card: '.card',
         cardImage: '.card__image',
         cardClose: '.card__btn-close',
-        cardTitle: '.card__title'
+        cardTitle: '.card__title',
+        toTop: '.card__top'
     };
 
     /**
@@ -124,12 +125,18 @@ var demo = (function (window) {
 
             var cardImage = $card.find(SELECTORS.cardImage);
             var cardClose = $card.find(SELECTORS.cardClose);
+            var toTop = $card.find(SELECTORS.toTop);
 
             $(cardImage).on('click', function () {
                 location.hash = $card.attr(ATTRIBUTES.id);
             });
             $(cardClose).on('click', function () {
                 location.hash = '';
+            });
+            $(toTop).on('click', function () {
+                console.log("click it");
+                console.log(card);
+                $(card).scrollTo(0,0);
             });
         });
     };

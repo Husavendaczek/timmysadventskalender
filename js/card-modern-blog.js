@@ -11,8 +11,7 @@ var Card = (function (window) {
     var SELECTORS = {
         container: '.card__container',
         content: '.card__content',
-        clip: '.clip',
-        topFunction: '.card__top'
+        clip: '.clip'
     };
 
     /**
@@ -272,11 +271,6 @@ var Card = (function (window) {
 
         return tween;
     };
-
-    Card.prototype.topFunction = function() {
-        document.body.scrollTop = 0; // For Safari
-        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-      }
 
     return Card;
 
