@@ -14,7 +14,7 @@ var demo = (function (window) {
         cardImage: '.card__image',
         cardClose: '.card__btn-close',
         cardTitle: '.card__title',
-        toTop: '.card__top'
+        topFunction: '.card__top'
     };
 
     /**
@@ -125,7 +125,6 @@ var demo = (function (window) {
 
             var cardImage = $card.find(SELECTORS.cardImage);
             var cardClose = $card.find(SELECTORS.cardClose);
-            var cardToTop = $card.find(SELECTORS.toTop);
 
             $(cardImage).on('click', function () {
                 location.hash = $card.attr(ATTRIBUTES.id);
@@ -133,33 +132,10 @@ var demo = (function (window) {
             $(cardClose).on('click', function () {
                 location.hash = '';
             });
-            $(cardToTop).on('click', function () {
-                console.log("click it");
-                $(this).parents(SELECTORS.card).animate({
-                    scrollTop: 0
-                }, "slow");
-            });
-
-            $(cardToTop).on('scroll', function () {
-                console.log("scroll it");
-                /*$(this).parents(SELECTORS.card).animate({
-                    scrollTop: 0
-                }, "slow");*/
-            });
-
-            /*$(window).scroll(function() {
-                console.log("scrolling");
-                if ($(this).scrollTop() > 100) {
-                    console.log("show");
-                    $card.find(SELECTORS.toTop).show();
-                } else {
-                    $card.find(SELECTORS.toTop).hide();
-                }
-            });*/
         });
     };
 
-    function topFunction() {
+    var topFunction = function() {
         document.body.scrollTop = 0; // For Safari
         document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
       }
