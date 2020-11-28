@@ -7,4 +7,17 @@ image: "img/8.jpg"
 
 ![Timmy](../img/8.jpg){:width="660"}
 
-TODO Motive für Karten.
+Um der Weihnachtspost eine schöne Aufmachung zu verleihen, bietet es sich an,
+
+die Karte selbst zu basteln.
+![Karte](../img/karte01.jpg){:width="660"}
+![Karte](../img/karte02.jpg){:width="660"}
+![Karte](../img/karte03.jpg){:width="660"}
+![Karte](../img/karte04.jpg){:width="660"}
+![Karte](../img/karte05.jpg){:width="660"}
+![Karte](../img/karte06.jpg){:width="660"}
+![Karte](../img/karte07.jpg){:width="660"}
+![Karte](../img/karte08.jpg){:width="660"}
+![Karte](../img/karte09.jpg){:width="660"}
+![Karte](../img/karte10.jpg){:width="660"}
+![Karte](../img/karte11.jpg){:width="660"}
