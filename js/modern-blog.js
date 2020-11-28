@@ -13,8 +13,7 @@ var demo = (function (window) {
         card: '.card',
         cardImage: '.card__image',
         cardClose: '.card__btn-close',
-        cardTitle: '.card__title',
-        topFunction: '.card__top'
+        cardTitle: '.card__title'
     };
 
     /**
@@ -134,11 +133,6 @@ var demo = (function (window) {
             });
         });
     };
-
-    var topFunction = function() {
-        document.body.scrollTop = 0; // For Safari
-        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-      }
 
     /**
      * Create a sequence for the open or close animation and play.
