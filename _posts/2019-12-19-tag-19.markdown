@@ -9,3 +9,7 @@ image: "img/19.jpg"
 
 [Ginger George the Gingerbreadman](https://limered.itch.io/generous-ginger-george-the-gingerbreadman)
 ![Ginger George](../img/gingerGeorge.png){:width="660"}
+
+Es gibt noch viele weitere winterliche Spiele, wie z.B.
+### A good snowman is hard to build
+![Snowman](../img/snowman.jpg){:width="660"}

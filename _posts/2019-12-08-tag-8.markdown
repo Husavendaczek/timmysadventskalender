@@ -7,9 +7,7 @@ image: "img/8.jpg"
 
 ![Timmy](../img/8.jpg){:width="660"}
 
-Um der Weihnachtspost eine schöne Aufmachung zu verleihen, bietet es sich an,
-
-die Karte selbst zu basteln.
+Um der Weihnachtspost eine schöne Aufmachung zu verleihen, bietet es sich an, die Karte selbst zu basteln.
 ![Karte](../img/karte01.jpg){:width="660"}
 ![Karte](../img/karte02.jpg){:width="660"}
 ![Karte](../img/karte03.jpg){:width="660"}
