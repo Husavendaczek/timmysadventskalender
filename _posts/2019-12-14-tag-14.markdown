@@ -5,7 +5,7 @@ subtitle: "Timmy macht Weihnachtspunsch."
 image: "img/14.jpg"
 ---
 
-![Timmy](../img/14.jpg){:width="660"}
+![Timmy](../img/14.jpg){:width="100%"}
 
 ## Kinderpunsch - das einfache Grundrezept:
 ### Zutaten für 6 Gläser

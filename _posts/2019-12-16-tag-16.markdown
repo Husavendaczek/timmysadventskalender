@@ -5,5 +5,5 @@ subtitle: "Timmy spielt mit der Eisenbahn."
 image: "img/16.jpg"
 ---
 
-![Timmy](../img/16.jpg){:width="660"}
+![Timmy](../img/16.jpg){:width="100%"}
 Es gibt niemanden, der den Fahrplan besser kennt als Timmy.

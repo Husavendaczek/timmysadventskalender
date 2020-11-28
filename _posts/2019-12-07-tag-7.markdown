@@ -5,7 +5,7 @@ subtitle: "Timmy kauft Geschenke mit seinen Brickmakers Benefits."
 image: "img/7.jpg"
 ---
 
-![Timmy](../img/7.jpg){:width="660"}
+![Timmy](../img/7.jpg){:width="100%"}
 Weihnachtsshopping kann zuhause richtig entspannt ablaufen.
 
 Kein Gedränge, kein Abstand halten, kein Schleppen.

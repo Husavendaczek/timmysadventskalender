@@ -5,5 +5,5 @@ subtitle: "Timmy nascht Plätzchen."
 image: "img/11.jpg"
 ---
 
-![Timmy](../img/11.jpg){:width="660"}
+![Timmy](../img/11.jpg){:width="100%"}
 Mit einer heißen Tasse Tee und ein paar leckeren Plätzchen kann man es sich zuhause richtig gemütlich machen.

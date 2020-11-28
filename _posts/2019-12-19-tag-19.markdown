@@ -5,11 +5,11 @@ subtitle: "Timmy spielt Ginger George the Gingerbreadman - das ultimative Weihna
 image: "img/19.jpg"
 ---
 
-![Timmy](../img/19.jpg){:width="660"}
+![Timmy](../img/19.jpg){:width="100%"}
 
 [Ginger George the Gingerbreadman](https://limered.itch.io/generous-ginger-george-the-gingerbreadman)
-![Ginger George](../img/gingerGeorge.png){:width="660"}
+![Ginger George](../img/gingerGeorge.png){:width="100%"}
 
 Es gibt noch viele weitere winterliche Spiele, wie z.B.
 ### A good snowman is hard to build
-![Snowman](../img/snowman.jpg){:width="660"}
+![Snowman](../img/snowman.jpg){:width="100%"}

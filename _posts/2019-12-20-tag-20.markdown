@@ -5,5 +5,5 @@ subtitle: "Timmy zündet die vierte Kerze an."
 image: "img/20.jpg"
 ---
 
-![Timmy](../img/20.jpg){:width="660"}
+![Timmy](../img/20.jpg){:width="100%"}
 Timmy wünscht euch einen schönen 4. Advent!

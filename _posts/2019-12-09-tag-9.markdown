@@ -5,4 +5,4 @@ subtitle: "Timmy dekoriert weihnachtlich."
 image: "img/9.jpg"
 ---
 
-![Timmy](../img/9.jpg){:width="660"}
+![Timmy](../img/9.jpg){:width="100%"}

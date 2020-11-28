@@ -5,4 +5,4 @@ subtitle: "Timmy verleiht seinem Zug weihnachtlichen Charme."
 image: "img/15.jpg"
 ---
 
-![Timmy](../img/15.jpg){:width="660"}
+![Timmy](../img/15.jpg){:width="100%"}

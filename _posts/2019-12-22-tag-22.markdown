@@ -5,4 +5,4 @@ subtitle: "Timmy schmückt den Baum."
 image: "img/22.jpg"
 ---
 
-![Timmy](../img/22.jpg){:width="660"}
+![Timmy](../img/22.jpg){:width="100%"}

@@ -5,5 +5,5 @@ subtitle: "Timmy kann es kaum erwarten."
 image: "img/23.jpg"
 ---
 
-![Timmy](../img/23.jpg){:width="660"}
+![Timmy](../img/23.jpg){:width="100%"}
 Morgen Kinder wird's was geben...

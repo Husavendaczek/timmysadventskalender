@@ -5,7 +5,7 @@ subtitle: "Timmy backt Plätzchen."
 image: "img/1.jpg"
 ---
 
-![Timmy](../img/1.jpg){:width="660"}
+![Timmy](../img/1.jpg){:width="100%"}
 
 ## Vanillekipferl
 ### Zutaten

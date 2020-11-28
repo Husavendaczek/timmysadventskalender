@@ -5,7 +5,7 @@ subtitle: "Timmy bastelt Weihnachtsdeko."
 image: "img/3.jpg"
 ---
 
-![Timmy](../img/3.jpg){:width="660"}
+![Timmy](../img/3.jpg){:width="100%"}
 
 ## Weihnachtsdeko selbst basteln
 
@@ -21,4 +21,4 @@ image: "img/3.jpg"
 
 [Korkuntersetzer bemalen](https://www.edding.com/de-de/ideen/idee/korkuntersetzer-bemalen/)
 
-![Untersetzer](../img/Untersetzer.png){:width="660"}
+![Untersetzer](../img/Untersetzer.png){:width="100%"}

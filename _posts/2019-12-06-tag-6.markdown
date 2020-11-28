@@ -5,5 +5,5 @@ subtitle: "Timmy freut sich über den Nikolaus."
 image: "img/6.jpg"
 ---
 
-![Timmy](../img/6.jpg){:width="660"}
+![Timmy](../img/6.jpg){:width="100%"}
 Timmy wünscht euch einen schönen 2. Advent!

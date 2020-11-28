@@ -5,4 +5,4 @@ subtitle: "Timmy wünscht euch allen frohe Weihnachten!"
 image: "img/24.jpg"
 ---
 
-![Timmy](../img/24.jpg){:width="660"}
+![Timmy](../img/24.jpg){:width="100%"}

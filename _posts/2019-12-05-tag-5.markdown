@@ -5,36 +5,36 @@ subtitle: "Timmy schaut einen Weihnachtsfilm."
 image: "img/5.jpg"
 ---
 
-![Timmy](../img/5.jpg){:width="660"}
+![Timmy](../img/5.jpg){:width="100%"}
 
 ## Timmys Weihnachtsfilmliste auf Netflix:
 ### Der Grinch
-![Grinch](../img/grinch.jpg){:width="660"}
+![Grinch](../img/grinch.jpg){:width="100%"}
 ### Stirb langsam
-![Die hard](../img/hard.jpg){:width="660"}
+![Die hard](../img/hard.jpg){:width="100%"}
 ### Holidate
-![Holidate](../img/holidate.jpg){:width="660"}
+![Holidate](../img/holidate.jpg){:width="100%"}
 ### Angela's Christmas Wish
-![Angela](../img/angela.jpg){:width="660"}
+![Angela](../img/angela.jpg){:width="100%"}
 ### The Knight before Christmas
-![Knight](../img/knight.jpg){:width="660"}
+![Knight](../img/knight.jpg){:width="100%"}
 ### Charlie und die Schokoladenfabrik
-![Charlie](../img/charlie.jpg){:width="660"}
+![Charlie](../img/charlie.jpg){:width="100%"}
 ### Drei Haselnüsse für Aschenbrödel
-![Aschen](../img/aschen.jpg){:width="660"}
+![Aschen](../img/aschen.jpg){:width="100%"}
 
 ## Timmys Weihnachtsfilmliste auf Amazon Prime:
 ### Der Grinch
-![Grinch](../img/grinch.jpg){:width="660"}
+![Grinch](../img/grinch.jpg){:width="100%"}
 ### Tatsächlich...Liebe
-![Liebe](../img/liebe.jpg){:width="660"}
+![Liebe](../img/liebe.jpg){:width="100%"}
 ### Krampus
-![Krampus](../img/krampus.jpg){:width="660"}
+![Krampus](../img/krampus.jpg){:width="100%"}
 ### Drei Haselnüsse für Aschenbrödel
-![Aschen](../img/aschen.jpg){:width="660"}
+![Aschen](../img/aschen.jpg){:width="100%"}
 ### Die Eisprinzen
-![Eisprinzen](../img/eisprinzen.jpg){:width="660"}
+![Eisprinzen](../img/eisprinzen.jpg){:width="100%"}
 ### Ein Hund rettet die Weihnachtsferien
-![Hund](../img/dog.jpg){:width="660"}
+![Hund](../img/dog.jpg){:width="100%"}
 ### Völlig verrückte Weihnachten
-![Crazy](../img/crazy.jpg){:width="660"}
+![Crazy](../img/crazy.jpg){:width="100%"}

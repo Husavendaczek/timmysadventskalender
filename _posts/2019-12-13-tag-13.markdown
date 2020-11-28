@@ -5,5 +5,5 @@ subtitle: "Timmy zündet die dritte Kerze an."
 image: "img/13.jpg"
 ---
 
-![Timmy](../img/13.jpg){:width="660"}
+![Timmy](../img/13.jpg){:width="100%"}
 Timmy wünscht euch einen schönen dritten Advent!

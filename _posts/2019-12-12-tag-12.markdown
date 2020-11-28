@@ -5,7 +5,7 @@ subtitle: "Timmy verpackt die Geschenke."
 image: "img/12.jpg"
 ---
 
-![Timmy](../img/12.jpg){:width="660"}
+![Timmy](../img/12.jpg){:width="100%"}
 
 ### Kein Geschenkpapier zur Hand?
 

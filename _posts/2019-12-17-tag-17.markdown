@@ -5,7 +5,7 @@ subtitle: "Timmy singt klassische Weihnachtslieder."
 image: "img/17.jpg"
 ---
 
-![Timmy](../img/17.jpg){:width="660"}
+![Timmy](../img/17.jpg){:width="100%"}
 
 ## Weihnachtslieder
 [Alle Jahre wieder](https://weihnachten.tagesspiegel.de/alle-jahre-wieder/)

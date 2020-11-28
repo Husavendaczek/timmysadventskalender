@@ -5,5 +5,5 @@ subtitle: "Timmy liebt den Brickmakers Adventskalender."
 image: "img/4.jpg"
 ---
 
-![Timmy](../img/4.jpg){:width="660"}
+![Timmy](../img/4.jpg){:width="100%"}
 Timmy hat schon einige seiner Kollegen entdeckt.

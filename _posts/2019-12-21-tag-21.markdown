@@ -5,7 +5,7 @@ subtitle: "Timmy macht heiße Maronen im Backofen."
 image: "img/21.jpg"
 ---
 
-![Timmy](../img/21.jpg){:width="660"}
+![Timmy](../img/21.jpg){:width="100%"}
 Nicht nur auf dem Weihnachtsmarkt kann man heiße Maronen essen.
 
 ## Zutaten für heiße Maroni selber machen (für 2 Personen):

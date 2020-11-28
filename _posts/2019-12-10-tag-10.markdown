@@ -5,5 +5,5 @@ subtitle: "Timmy steckt Nelken in eine Orange."
 image: "img/10.jpg"
 ---
 
-![Timmy](../img/10.jpg){:width="660"}
+![Timmy](../img/10.jpg){:width="100%"}
 Dadurch verleiht man dem Raum nicht nur weihnachtlichen Duft, durch eine hübsche Anordnung lassen sie sich gut als Deko integrieren.
