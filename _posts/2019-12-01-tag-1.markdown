@@ -7,4 +7,49 @@ image: "img/1.jpg"
 
 ![Timmy](../img/1.jpg){:width="660"}
 
-TODO Rezepte für Plätzchen
+## Vanillekipferl
+### Zutaten
+* 75g Mandeln
+* 2 Vanilleschoten
+* 125g weiche Süßrahmbutter
+* 50g Zucker
+* Salz
+* 1 Eigelb
+* 1 TL Zitronensaft
+* 175g Mehl
+* 2 Päckchen Burbon-Vanillezucker
+
+### Zubereitung
+1. Die Mandeln in einer trockenen Pfanne rösten, bis sie anfangen zu duften. Auf einem Teller abkühlen lassen und im Blitzhacker fein mahlen. Die Vanilleschoten längs halbieren und das Mark mit einem spitzen Messer herauskratzen.
+
+2. Die Butter mit dem Zucker, dem Vanillemark und 1 Prise Salz mit den Knethaken des Handrührgeräts mischen. Eigelb, Zitronensaft, Mandeln und das Mehl dazugeben und alles zu einem krümeligen Teig rühren, diesen auf einer leicht bemehlten Arbeitsfläche mit den Händen glatt kneten. In Frischhaltefolie wickeln und für 1 Std. kühl stellen.
+
+3. Den Backofen auf 180° vorheizen. Den Teig halbieren und zu zwei Rollen formen. Davon etwa 1cm dicke Scheiben abschneiden, diese zu 5cm langen Hörnchen mit spitzen Enden formen. Auf ein mit Backpapier belegtes Blech legen. Im Ofen (Mitte) ca. 11 Min. bakcen. Die Kipferl dürfen beim Backen nicht bräunen.
+
+4. Vanillezucker und Puderzucker in einer kleinen Schüssel mischen. Die gebackenen Kipferl auf dem Blech zusammenschieben, mit der Zuckermischung bestreuen und auskühlen lassen.
+
+## Cashew-Karamell-Herzen
+### Zutaten für den Karamell
+* 60g Zucker
+* 40g Cashewkerne
+* etwas Fleur de Sel
+
+### Zutaten für den Teig
+* 180g Mehl
+* Salz
+* 2 EL brauner Rohrzucker
+* 2 Päckchen Bourbon-Vanillezucker
+* 60g Sahne
+* 120g kalte Butter
+
+### Außerdem
+* 2 EL Milch
+
+### Zubereitung
+1. Den Zucker in einer kleinen Pfanne bei mittlerer Hitze schmelzen und goldgelb karamellisieren lassen. Die Cashewkerne darin schwenken und alles auf ein doppelt gefaltetes Backpapier gießen. Die Karamellmasse vollständig abkühlen lassen.
+
+2. Das Mehl in eine Schüssel sieben, 1 Prise Salz, Rohrzucker und Vanillezucker untermischen, Sahne und die Butter in kleinen Stückchen dazugeben und alles mit der Hand oder mit den Knethaken des Handrührgeräts zu einem glatten Teig kneten (oder in der Küchenmaschine verarbeiten). Für 30 Min. kalt stellen. Das Backblech mit Backpapier belegen.
+
+3. Den erkalteten Nusskaramell in der Küchenmaschine oder mit einem scharfen Messer klein hacken. Ungefähr 4 kräftige Prisen Fleur de Sel untermischen. Den Backofen auf 200° vorheizen. Den Teig auf wenig Mehl portionsweise ca. 3mm dick ausrollen und Herzen ausstechen. Die Herzen auf das Blech legen, mit Milch bestreichen und die Karamellmischung daraufstreuen.
+
+4. Die Karamellherzen im Ofen (Mitte) ca. 10 - 12 Min. backen. Aus dem Ofen nehmen und auf dem Belch abkühlen lassen.
