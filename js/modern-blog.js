@@ -136,11 +136,18 @@ var demo = (function (window) {
             $(cardToTop).on('click', function () {
                 console.log("click it");
                 $(this).parents(SELECTORS.card).animate({
-                    scrollTop: 1
+                    scrollTop: 0
                 }, "slow");
             });
 
-            $(window).scroll(function() {
+            $(cardToTop).on('scroll', function () {
+                console.log("scroll it");
+                /*$(this).parents(SELECTORS.card).animate({
+                    scrollTop: 0
+                }, "slow");*/
+            });
+
+            /*$(window).scroll(function() {
                 console.log("scrolling");
                 if ($(this).scrollTop() > 100) {
                     console.log("show");
@@ -148,7 +155,7 @@ var demo = (function (window) {
                 } else {
                     $card.find(SELECTORS.toTop).hide();
                 }
-            });
+            });*/
         });
     };
 
