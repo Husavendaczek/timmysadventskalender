@@ -17,6 +17,7 @@ image: "img/18.jpg"
 * 1 Prise Zimt
 * etwas Margarine (palmölfrei).
 
+### Zubereitung
 1. Fette die Auflaufform mit etwas Margarine ein.
 Wasche die Äpfel, schneide das Kerngehäuse heraus und setzt sie in die Auflaufform.
 

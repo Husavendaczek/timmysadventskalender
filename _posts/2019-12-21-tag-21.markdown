@@ -8,9 +8,11 @@ image: "img/21.jpg"
 ![Timmy](../img/21.jpg){:width="100%"}
 Nicht nur auf dem Weihnachtsmarkt kann man heiße Maronen essen.
 
-## Zutaten für heiße Maroni selber machen (für 2 Personen):
+## Maroni selber machen (für 2 Personen):
+### Zutaten
 20 Maronen
 
+### Zubereitung
 1.
 Backofen auf 200 Grad vorheizen. Maronen an der flachen Unterseite kreuzweise mit einem kleinen sehr scharfen Küchenmesser einschneiden. Vorsicht: die Schale ist sehr fest, deshalb bedarf etwas Kraftaufwand, aber man darf nicht zu fest schneiden, denn die Maronen im Inneren sollten nicht verletzt werden.
 
