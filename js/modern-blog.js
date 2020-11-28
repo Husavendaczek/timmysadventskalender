@@ -135,7 +135,7 @@ var demo = (function (window) {
             });
             $(toTop).on('click', function () {
                 console.log("click it");
-                window.scrollTo(0,0);
+                card.scrollTop = 0;
             });
         });
     };
@@ -321,11 +321,12 @@ var demo = (function (window) {
     window.onscroll = function() {myFunction()};
 
     function myFunction() {
-        console.log("scrooll");
         if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
             console.log("show");
+            toTop.classList.remove('card__top_hidden');
         } else {
             console.log("hide");
+            toTop.classList.add('card__top_hidden');
         }
     }
 

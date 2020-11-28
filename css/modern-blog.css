@@ -384,7 +384,7 @@ a:focus {
 }
 
 .card__top {
-	display: block; /* Hidden by default */
+	display: none; /* Hidden by default */
 	position: fixed; /* Fixed/sticky position */
 	bottom: 20px; /* Place the button at the bottom of the page */
 	right: 30px; /* Place the button 30px from the right */
@@ -401,4 +401,9 @@ a:focus {
   
   .card__top:hover {
 	background-color: #555; /* Add a dark-grey background on hover */
+  }
+
+  .card__top_hidden {
+	visibility: hidden;
+	opacity: 0;
   }
