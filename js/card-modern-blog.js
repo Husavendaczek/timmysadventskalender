@@ -11,7 +11,8 @@ var Card = (function (window) {
     var SELECTORS = {
         container: '.card__container',
         content: '.card__content',
-        clip: '.clip'
+        clip: '.clip',
+        topFunction: '.card__top'
     };
 
     /**
