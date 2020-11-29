@@ -384,7 +384,8 @@ a:focus {
 }
 
 .card__top {
-	display: none; /* Hidden by default */
+	opacity: 1;
+	display: block; /* Hidden by default */
 	position: fixed; /* Fixed/sticky position */
 	bottom: 20px; /* Place the button at the bottom of the page */
 	right: 30px; /* Place the button 30px from the right */
@@ -397,6 +398,7 @@ a:focus {
 	padding: 15px; /* Some padding */
 	border-radius: 10px; /* Rounded corners */
 	font-size: 18px; /* Increase font size */
+	transition: opacity 200ms ease-in-out;
   }
   
   .card__top:hover {
@@ -404,6 +406,5 @@ a:focus {
   }
 
   .card__top_hidden {
-	visibility: hidden;
 	opacity: 0;
   }

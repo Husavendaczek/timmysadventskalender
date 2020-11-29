@@ -42,18 +42,20 @@ var Card = (function (window) {
 
         this._TL = null;
 
-        this._container.onscroll = function() {myFunction().bind(this)};
-
         function myFunction() {
-            console.log("scroll");
-            if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-                console.log("show");
+            if (this._container.scrollTop > 50) {
                 this._scrollTop.classList.remove('card__top_hidden');
             } else {
-                console.log("hide");
                 this._scrollTop.classList.add('card__top_hidden');
             }
         }
+
+        function onTopClick() {
+            this._container.scrollTop = 0;
+        }
+
+        this._container.onscroll = myFunction.bind(this);
+        this._scrollTop.onclick = onTopClick.bind(this);
     };
 
     /**
