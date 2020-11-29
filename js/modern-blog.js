@@ -125,7 +125,8 @@ var demo = (function (window) {
 
             var cardImage = $card.find(SELECTORS.cardImage);
             var cardClose = $card.find(SELECTORS.cardClose);
-            var toTop = $card.find(SELECTORS.toTop);
+            var _container = $card.find(SELECTORS.container)[0];
+            var _scrollTop = $card.find(SELECTORS.toTop)[0];
 
             $(cardImage).on('click', function () {
                 location.hash = $card.attr(ATTRIBUTES.id);
@@ -133,9 +134,17 @@ var demo = (function (window) {
             $(cardClose).on('click', function () {
                 location.hash = '';
             });
-            $(toTop).on('click', function () {
-                console.log("click it");
-            });
+
+            function myFunction() {
+                console.log("scrolling window");
+                if (this._container.scrollTop > 50) {
+                    this._scrollTop.classList.remove('card__top_hidden');
+                } else {
+                    this._scrollTop.classList.add('card__top_hidden');
+                }
+            }
+    
+            window.onscroll = myFunction.bind(this);
         });
     };
 

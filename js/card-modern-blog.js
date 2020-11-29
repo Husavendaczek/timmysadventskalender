@@ -43,6 +43,7 @@ var Card = (function (window) {
         this._TL = null;
 
         function myFunction() {
+            console.log("scrolling");
             if (this._container.scrollTop > 50) {
                 this._scrollTop.classList.remove('card__top_hidden');
             } else {
@@ -51,6 +52,7 @@ var Card = (function (window) {
         }
 
         function onTopClick() {
+            console.log("click");
             this._container.scrollTop = 0;
         }
 
