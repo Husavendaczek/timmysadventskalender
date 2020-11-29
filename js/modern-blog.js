@@ -133,10 +133,9 @@ var demo = (function (window) {
             $(cardClose).on('click', function () {
                 location.hash = '';
             });
-            /*$(toTop).on('click', function () {
+            $(toTop).on('click', function () {
                 console.log("click it");
-                card.scrollTop = 0;
-            });*/
+            });
         });
     };
 
@@ -317,20 +316,6 @@ var demo = (function (window) {
             _triggerOpenCard(oldHash, newHash);
         });
     };
-
-    window.onscroll = function() {myFunction()};
-
-    function myFunction() {
-        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-            console.log("show");
-            /*toTop = document.getElementById(".card__top");
-            toTop.classList.remove('card__top_hidden');*/
-        } else {
-            console.log("hide");
-            /*toTop = document.getElementById(".card__top");
-            toTop.classList.add('card__top_hidden');*/
-        }
-    }
 
     // Expose methods.
     return {

@@ -11,7 +11,8 @@ var Card = (function (window) {
     var SELECTORS = {
         container: '.card__container',
         content: '.card__content',
-        clip: '.clip'
+        clip: '.clip',
+        toTop: '.card__top'
     };
 
     /**
@@ -35,10 +36,24 @@ var Card = (function (window) {
         this._container = $(this._el).find(SELECTORS.container)[0];
         this._clip = $(this._el).find(SELECTORS.clip)[0];
         this._content = $(this._el).find(SELECTORS.content)[0];
+        this._scrollTop = $(this._el).find(SELECTORS.toTop)[0];
 
         this.isOpen = false;
 
         this._TL = null;
+
+        this._container.onscroll = function() {myFunction().bind(this)};
+
+        function myFunction() {
+            console.log("scroll");
+            if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+                console.log("show");
+                this._scrollTop.classList.remove('card__top_hidden');
+            } else {
+                console.log("hide");
+                this._scrollTop.classList.add('card__top_hidden');
+            }
+        }
     };
 
     /**
@@ -271,25 +286,6 @@ var Card = (function (window) {
 
         return tween;
     };
-
-    Card.prototype.onscroll = function() {myFunction()};
-
-    function myFunction() {
-        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-            console.log("show");
-            /*toTop = document.getElementById(".card__top");
-            toTop.classList.remove('card__top_hidden');*/
-        } else {
-            console.log("hide");
-            /*toTop = document.getElementById(".card__top");
-            toTop.classList.add('card__top_hidden');*/
-        }
-    }
-
-    function topFunction() {
-        Card.prototype.document.body.scrollTop = 0; // For Safari
-        Card.prototype.document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-      }
 
     return Card;
 
