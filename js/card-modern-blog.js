@@ -42,47 +42,21 @@ var Card = (function (window) {
 
         this._TL = null;
 
-        /*function myFunction() {
+        function myFunction() {
             console.log("scrolling");
             if (this._container.scrollTop > 50) {
                 this._scrollTop.classList.remove('card__top_hidden');
             } else {
                 this._scrollTop.classList.add('card__top_hidden');
             }
-        }*/
+        }
 
         function onTopClick() {
             this._container.scrollTop = 0;
         }
 
-        //this._container.onscroll = myFunction.bind(this);
+        this._container.onscroll = myFunction.bind(this);
         this._scrollTop.onclick = onTopClick.bind(this);
-
-
-
-        let last_known_scroll_position = 0;
-        let ticking = false;
-
-        function doSomething(scroll_pos) {
-            if (this._container.scrollTop > 50) {
-                this._scrollTop.classList.remove('card__top_hidden');
-            } else {
-                this._scrollTop.classList.add('card__top_hidden');
-            }
-        }
-
-        this._container.addEventListener('scroll', function(e) {
-        last_known_scroll_position = window.scrollY;
-
-        if (!ticking) {
-            window.requestAnimationFrame(function() {
-            doSomething(last_known_scroll_position);
-            ticking = false;
-            });
-
-            ticking = true;
-        }
-        });
     };
 
     /**
