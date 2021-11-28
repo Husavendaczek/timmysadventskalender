@@ -8,5 +8,5 @@ image: "img/2.jpg"
 ![Timmy](../img/2.jpg){:width="100%"}
 Timmy schlägt vor, einfach mal auf Pinterest, Youtube oder Instagram nach Ideen zu suchen.
 
-Außerdem feiert er seinen 5. Geburtstag.
+Außerdem feiert er seinen 7. Geburtstag.
 ![Timmy](../img/birthday.jpg){:width="100%"}
