@@ -1,8 +1,9 @@
 ---
 title:  "9. Türchen"
 date:   2021-12-09 00:00:00 +0100
-subtitle: "Timmy dekoriert weihnachtlich."
-image: "img/9.jpg"
+subtitle: "Timmy liebt den Brickmakers Adventskalender."
+image: "img/4.jpg"
 ---
 
-![Timmy](../img/9.jpg){:width="100%"}
+![Timmy](../img/4.jpg){:width="100%"}
+Timmy hat schon einige seiner Kollegen entdeckt.
