@@ -7,3 +7,6 @@ image: "img/10.jpg"
 
 ![Timmy](../img/10.jpg){:width="100%"}
 Dadurch verleiht man dem Raum nicht nur weihnachtlichen Duft, durch eine hübsche Anordnung lassen sie sich gut als Deko integrieren.
+
+Um euch Trost zur abgesagten Weihnachtsfeier zu spenden, hat Timmy nochmal seine Rede vom letzten Jahr ausgepackt:
+[Timmys Weihnachtsrede](https://www.youtube.com/watch?v=2GWhJHX6r70)

@@ -6,3 +6,7 @@ image: "img/22.jpg"
 ---
 
 ![Timmy](../img/22.jpg){:width="100%"}
+Timmy schmückt den Baum...
+
+![Timmy](../img/11.jpg){:width="100%"}
+und danach macht er es sich mit ein paar leckeren Plätzchen richtig gemütlich.
