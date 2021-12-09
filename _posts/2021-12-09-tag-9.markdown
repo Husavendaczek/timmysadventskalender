@@ -7,5 +7,3 @@ image: "img/4.jpg"
 
 ![Timmy](../img/4.jpg){:width="100%"}
 Timmy hat schon einige seiner Kollegen/Kolleginnen entdeckt.
-
-![Timmy](../img/animation.gif.mp4)
