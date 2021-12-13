@@ -1,9 +1,9 @@
 ---
 title:  "15. Türchen"
 date:   2021-12-15 00:00:00 +0100
-subtitle: "Timmy hofft auf leckere Kinder."
-image: "img/15.jpg"
+subtitle: "Timmy baut ein Haus aus Lebkuchen."
+image: "img/lebkuchen.jpg"
 ---
 
-![Timmy](../img/15.jpg){:width="100%"}
-Timmy würde niemals Kinder essen, doch er hofft auf Leckerlis im Lebkuchenhaus.
+![Timmy](../img/lebkuchen.jpg){:width="100%"}
+Timmy baut ein Haus aus Lebkuchen.
