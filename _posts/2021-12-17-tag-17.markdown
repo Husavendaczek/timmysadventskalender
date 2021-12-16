@@ -5,7 +5,7 @@ subtitle: "Timmy genießt die Remote LAN-Party."
 image: "img/091.jpg"
 ---
 
-![Timmy](../img/17.jpg){:width="100%"}
+![Timmy](../img/091.jpg){:width="100%"}
 Timmy nimmt eine kurze Auszeit von der Vorweihnachtszeit und genießt die Remote LAN-Party.
 
 <video autoplay loop width="300" height="250" controls>
