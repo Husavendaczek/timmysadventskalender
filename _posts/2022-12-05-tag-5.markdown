@@ -1,59 +1,8 @@
 ---
 title:  "5. Türchen"
 date:   2022-12-05 00:00:00 +0100
-subtitle: "Timmy schaut einen Weihnachtsfilm während er den zweiten Advent genießt."
-image: "img/5.jpg"
+subtitle: "Timmy dekoriert weihnachtlich."
+image: "img/9.jpg"
 ---
 
-![Timmy](../img/5.jpg){:width="100%"}
-Timmy wünscht euch einen schönen 2. Advent!
-
-## Timmys Weihnachtsfilmliste auf Netflix:
-### Der Grinch
-![Grinch](../img/grinch.jpg){:width="50%"}
-### Holidate
-![Holidate](../img/holidate.jpg){:width="50%"}
-### A Castle for Christmas
-![Castle](../img/christmascastle.jpg){:width="50%"}
-### Christmas Flow
-![Flow](../img/flow.jpg){:width="50%"}
-### Office Christmas Party
-![Party](../img/party.jpg){:width="50%"}
-### Angela's Christmas Wish
-![Angela](../img/angela.jpg){:width="50%"}
-### The Knight before Christmas
-![Knight](../img/knight.jpg){:width="50%"}
-### Charlie und die Schokoladenfabrik
-![Charlie](../img/charlie.jpg){:width="50%"}
-### Drei Haselnüsse für Aschenbrödel
-![Aschen](../img/aschen.jpg){:width="50%"}
-
-## Timmys Weihnachtsfilmliste auf Amazon Prime:
-### Tatsächlich...Liebe
-![Liebe](../img/liebe.jpg){:width="50%"}
-### Krampus 2 - Massaker
-![Krampus](../img/krampus.jpg){:width="50%"}
-### Drei Haselnüsse für Aschenbrödel
-![Aschen](../img/aschen.jpg){:width="50%"}
-### Ein Hund rettet die Weihnachtsferien
-![Hund](../img/dog.jpg){:width="50%"}
-### Völlig verrückte Weihnachten
-![Crazy](../img/crazy.jpg){:width="50%"}
-
-## Timmys Weihnachtsfilmliste auf Disney Plus:
-### Frozen
-![#Frozen](../img/frozen.jpg){:width="50%"}
-### Frozen 2
-![#Frozen2](../img/frozen2.jpg){:width="50%"}
-### Noelle
-![#Noelle](../img/noelle.jpg){:width="50%"}
-### Das Wunder von Manhattan
-![#Wunder](../img/manhattan.jpg){:width="50%"}
-### Kevin allein zu Haus
-![#Kevin](../img/kevin.jpeg){:width="50%"}
-### Der Nussknacker und die vier Reiche
-![#Nussknacker](../img/nussknacker.jpg){:width="50%"}
-### Die 12 Weihnachtsdates
-![#Dates](../img/dates.jpg){:width="50%"}
-### Santa Clause
-![#Santa](../img/santa.jpg){:width="50%"}
+![Timmy](../img/9.jpg){:width="100%"}

@@ -1,14 +1,29 @@
 ---
 title:  "17. Türchen"
 date:   2022-12-17 00:00:00 +0100
-subtitle: "Timmy genießt die Remote LAN-Party."
-image: "img/091.jpg"
+subtitle: "Timmy macht sich einen leckeren Bratapfel."
+image: "img/18.jpg"
 ---
 
-![Timmy](../img/091.jpg){:width="100%"}
-Timmy nimmt eine kurze Auszeit von der Vorweihnachtszeit und genießt die Remote LAN-Party.
+![Timmy](../img/18.jpg){:width="100%"}
 
-<video autoplay loop width="300" height="250" controls>
-  <source src="../img/animation.gif.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+## Bratapfel
+
+### Zutaten
+* 4 Bio-Äpfel, am besten Boskoop
+* 50 g Mandelsplitter
+* 50 g Rosinen
+* 4 TL Bio-Honig oder eine vegane Alternative
+* 1 Prise Zimt
+* etwas Margarine (palmölfrei).
+
+### Zubereitung
+1. Fette die Auflaufform mit etwas Margarine ein.
+Wasche die Äpfel, schneide das Kerngehäuse heraus und setzt sie in die Auflaufform.
+
+2. Mische für die Füllung die Mandelsplitter, Rosinen, Honig und Zimt miteinander.
+
+3. Fülle die Äpfel gleichmäßig mit dieser Mischung.
+Auf jeden Apfel setzt du am Ende noch eine Flocke Margarine.
+
+4. Dann ab damit in den Ofen bei 200° C für circa 30 Minuten. Den Backofen musst du übrigens nicht vorheizen – das spart Energie.

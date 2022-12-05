@@ -1,27 +1,9 @@
 ---
 title:  "11. Türchen"
 date:   2022-12-11 00:00:00 +0100
-subtitle: "Timmy singt klassische Weihnachtslieder."
-image: "img/17.jpg"
+subtitle: "Timmy zündet die dritte Kerze an."
+image: "img/13.jpg"
 ---
 
-![Timmy](../img/17.jpg){:width="100%"}
-
-## Weihnachtslieder
-[Alle Jahre wieder](https://weihnachten.tagesspiegel.de/alle-jahre-wieder/)
-[Es ist ein Ros entsprungen](https://weihnachten.tagesspiegel.de/es-ist-ein-ros-entsprungen/)
-[Fröhliche Weihnacht überall](https://weihnachten.tagesspiegel.de/froehliche-weihnacht-ueberall/)
-[Ihr Kinderlein kommet](https://weihnachten.tagesspiegel.de/ihr-kinderlein-kommet/)
-[Kling, Glöckchen, klingelingeling](https://weihnachten.tagesspiegel.de/kling-gloeckchen-klingelingeling/)
-[Lasst uns froh und munter sein](https://weihnachten.tagesspiegel.de/lasst-uns-froh-und-munter-sein/)
-[Leise rieselt der Schnee](https://weihnachten.tagesspiegel.de/leise-rieselt-der-schnee/)
-[Macht hoch die Tür](https://weihnachten.tagesspiegel.de/macht-hoch-die-tuer/)
-[Morgen Kinder wird's was geben](https://weihnachten.tagesspiegel.de/morgen-kinder-wirds-geben/)
-[Morgen kommt der Weihnachtsmann](https://weihnachten.tagesspiegel.de/morgen-kommt-der-weihnachtsmann/)
-[O du fröhliche](https://weihnachten.tagesspiegel.de/o-du-froehliche/)
-[O Tannenbaum](https://weihnachten.tagesspiegel.de/o-tannenbaum-der-originaltext/)
-[Schneeflöckchen, Weißröckchen](https://weihnachten.tagesspiegel.de/schneefloeckchen-weissroeckchen/)
-[Stille Nacht, heilige Nacht](https://weihnachten.tagesspiegel.de/stille-nacht-heilige-nacht/)
-[Süßer die Glocken nie klingen](https://weihnachten.tagesspiegel.de/suesser-die-glocken-nie-klingen/)
-[Tochter Zion, freue dich!](https://weihnachten.tagesspiegel.de/tochter-zion-freue-dich/)
-[Vom Himmel hoch da komm ich her](https://weihnachten.tagesspiegel.de/vom-himmel-hoch-da-komm-ich/)
+![Timmy](../img/13.jpg){:width="100%"}
+Timmy wünscht euch einen schönen dritten Advent!
