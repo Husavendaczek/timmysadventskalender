@@ -10,13 +10,13 @@ image: "img/18.jpg"
 ## Timmy macht sich einen Bratapfel
 
 ### Zutaten
-2 große	Äpfel
-2 EL	Mandel(n), gehackte
-2 EL	Rosinen
-n. B.	Zitronensaft
-1 EL	Puderzucker
-1 TL	Zimt
-100 g	Butter/Magarine, weiche
+* 2 große	Äpfel
+* 2 EL	Mandel(n), gehackte
+* 2 EL	Rosinen
+* n. B.	Zitronensaft
+* 1 EL	Puderzucker
+* 1 TL	Zimt
+* 100 g	Butter/Magarine, weiche
 
 ### Zubereitung
 Den Ofen auf 220 °C vorheizen.
