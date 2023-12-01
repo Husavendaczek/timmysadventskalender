@@ -1,7 +1,7 @@
 ---
 title:  "8. Türchen"
-date:   2022-12-08 00:00:00 +0100
-subtitle: "Timmy bastelt Weihnachtskarten für seine Liebsten."
+date:   2023-12-08 00:00:00 +0100
+subtitle: "Timmy bastelt Weihnachtskarten für seine Liebsten und verteilt sie auf der Brickmakers Weihnachtsfeier."
 image: "img/8.jpg"
 ---
 
