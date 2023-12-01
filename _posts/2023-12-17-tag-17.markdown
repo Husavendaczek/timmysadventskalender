@@ -1,9 +1,9 @@
 ---
 title:  "17. Türchen"
-date:   2022-12-17 00:00:00 +0100
-subtitle: "Timmy zündet die vierte Kerze an."
-image: "img/20.jpg"
+date:   2023-12-17 00:00:00 +0100
+subtitle: "Timmy zündet die dritte Kerze an."
+image: "img/13.jpg"
 ---
 
-![Timmy](../img/20.jpg){:width="100%"}
-Timmy wünscht euch einen schönen 4. Advent!
+![Timmy](../img/13.jpg){:width="100%"}
+Timmy wünscht euch einen schönen dritten Advent!

@@ -1,12 +1,12 @@
 ---
 title:  "3. Türchen"
 date:   2023-12-03 00:00:00 +0100
-subtitle: "Timmy schaut einen Weihnachtsfilm während er den zweiten Advent genießt."
+subtitle: "Timmy schaut einen Weihnachtsfilm während er den ersten Advent genießt."
 image: "img/5.jpg"
 ---
 
 ![Timmy](../img/5.jpg){:width="100%"}
-Timmy wünscht euch einen schönen 2. Advent!
+Timmy wünscht euch einen schönen 1. Advent!
 
 ## Timmys Weihnachtsfilmliste auf Netflix:
 ### Der Grinch

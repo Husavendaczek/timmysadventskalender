@@ -1,9 +1,10 @@
 ---
 title:  "10. Türchen"
 date:   2023-12-10 00:00:00 +0100
-subtitle: "Timmy zündet die dritte Kerze an."
-image: "img/13.jpg"
+subtitle: "Timmy verpasst den zweiten Advent"
+image: "img/179.jpg"
 ---
 
-![Timmy](../img/13.jpg){:width="100%"}
-Timmy wünscht euch einen schönen dritten Advent!
+![Timmy](../img/179.jpg){:width="100%"}
+Timmy wünscht euch einen schönen zweiten Advent!
+Statt die Kerze anzuzünden, hängt er Lichterketten und Girlanden auf.
