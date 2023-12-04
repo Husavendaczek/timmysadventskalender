@@ -8,6 +8,9 @@ image: "img/8.jpg"
 ![Timmy](../img/8.jpg){:width="100%"}
 
 Um der Weihnachtspost eine schöne Aufmachung zu verleihen, bietet es sich an, die Karte selbst zu basteln.
+![Karte](../img/watercolor.png){:width="100%"}
+![Karte](../img/tree_packages.png){:width="100%"}
+![Karte](../img/houses.jpg){:width="100%"}
 ![Karte](../img/karte01.jpg){:width="100%"}
 ![Karte](../img/karte02.jpg){:width="100%"}
 ![Karte](../img/karte03.jpg){:width="100%"}
@@ -15,6 +18,7 @@ Um der Weihnachtspost eine schöne Aufmachung zu verleihen, bietet es sich an, d
 ![Karte](../img/karte05.jpg){:width="100%"}
 ![Karte](../img/karte06.jpg){:width="100%"}
 ![Karte](../img/karte07.jpg){:width="100%"}
+![Karte](../img/Christmas_Bauble.jpg){:width="100%"}
 ![Karte](../img/karte08.jpg){:width="100%"}
 ![Karte](../img/karte09.jpg){:width="100%"}
 ![Karte](../img/karte10.jpg){:width="100%"}
