@@ -8,8 +8,4 @@ image: "img/7.jpg"
 ![Timmy](../img/7.jpg){:width="100%"}
 Weihnachtsshopping kann zuhause richtig entspannt ablaufen.
 
-Kein Gedränge, kein Abstand halten, kein Schleppen.
-
-Auch lokale Händler liefern nach Hause :)
-
-[Koblenz bringt's](https://koblenz-bringts.de/)
+Kein Gedränge und kein Schleppen.

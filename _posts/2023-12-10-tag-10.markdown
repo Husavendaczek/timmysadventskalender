@@ -5,6 +5,6 @@ subtitle: "Timmy verpasst den zweiten Advent"
 image: "img/179.jpg"
 ---
 
-![Timmy](../img/179.jpg){:width="100%"}
+![Timmy](../img/179.JPG){:width="100%"}
 Timmy wünscht euch einen schönen zweiten Advent!
 Statt die Kerze anzuzünden, hängt er Lichterketten und Girlanden auf.
