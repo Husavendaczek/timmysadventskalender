@@ -1,25 +1,31 @@
 ---
 title:  "8. Türchen"
 date:   2023-12-08 00:00:00 +0100
-subtitle: "Timmy bastelt Weihnachtskarten für seine Liebsten und verteilt sie auf der Brickmakers Weihnachtsfeier."
-image: "img/8.jpg"
+subtitle: "Timmy wünscht euch viel Spaß auf der Brickmakers Weihnachtsfeier."
+image: "img/Timmy.jpg"
 ---
 
-![Timmy](../img/8.jpg){:width="100%"}
+![Timmy](../img/Timmy.jpg){:width="100%"}
+Timmy feiert heute gemeinsam mit seinen Freunden.
 
-Um der Weihnachtspost eine schöne Aufmachung zu verleihen, bietet es sich an, die Karte selbst zu basteln.
-![Karte](../img/watercolor.png){:width="100%"}
-![Karte](../img/tree_packages.png){:width="100%"}
-![Karte](../img/houses.jpg){:width="100%"}
-![Karte](../img/karte01.jpg){:width="100%"}
-![Karte](../img/karte02.jpg){:width="100%"}
-![Karte](../img/karte03.jpg){:width="100%"}
-![Karte](../img/karte04.jpg){:width="100%"}
-![Karte](../img/karte05.jpg){:width="100%"}
-![Karte](../img/karte06.jpg){:width="100%"}
-![Karte](../img/karte07.jpg){:width="100%"}
-![Karte](../img/Christmas_Bauble.jpg){:width="100%"}
-![Karte](../img/karte08.jpg){:width="100%"}
-![Karte](../img/karte09.jpg){:width="100%"}
-![Karte](../img/karte10.jpg){:width="100%"}
-![Karte](../img/karte11.jpg){:width="100%"}
+![Amy und Lina](../img/AmyLina.jpg){:width="100%"}
+![Ben](../img/Ben.jpg){:width="100%"}
+![Pablo](../img/Pablo.jpg){:width="100%"}
+![Cookie](../img/cookie02.png){:width="100%"}
+![Flecki](../img/Flecki.jpg){:width="100%"}
+![Phil und Murphy](../img/Franziska_Phil_Murphy.jpg){:width="100%"}
+![Tiny Toast](../img/tiny_toast.jpg){:width="100%"}
+![Pablo](../img/Manu_Pablo.jpg){:width="100%"}
+![Portos](../img/Portos_Schutzbunker_Jenny.jpg){:width="100%"}
+![Robert](../img/robert.png){:width="100%"}
+![Sonja](../img/Sebastian_Sonja04.jpeg){:width="100%"}
+![Tobias](../img/thomas_tobias.png){:width="100%"}
+![Jasper](../img/Moritz_Jasper.jpeg){:width="100%"}
+![Jonny](../img/Monika_Jonny.png){:width="100%"}
+![Lina](../img/Martin_Lina.jpeg){:width="100%"}
+![Phil und Murphy](../img/PhilUndMurphy.png){:width="100%"}
+![Temmie](../img/Kailex_Temmie.jpeg){:width="100%"}
+![Ben](../img/Luca_Ben_Weiterbildung.jpg){:width="100%"}
+![Diego](../img/Diego.png){:width="100%"}
+![Heino](../img/Heino_Emil_close.jpg){:width="100%"}
+![Sonja](../img/Sebastian_Sonja02.png){:width="100%"}
