@@ -7,8 +7,6 @@ image: "img/1.jpg"
 
 ![Timmy](../img/1.jpg){:width="100%"}
 
-![Timmy](../img/animation.gif){:width="100%"}
-
 ## Vanillekipferl
 ### Zutaten
 * 75g Mandeln

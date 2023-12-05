@@ -10,6 +10,13 @@ image: "img/19.jpg"
 [Ginger George the Gingerbreadman](https://limered.itch.io/generous-ginger-george-the-gingerbreadman)
 ![Ginger George](../img/gingerGeorge.png){:width="100%"}
 
+![Timmy](../img/091.jpg){:width="100%"}
+
 Es gibt noch viele weitere winterliche Spiele, wie z.B.
 ### A good snowman is hard to build
 ![Snowman](../img/snowman.jpg){:width="100%"}
+
+<video autoplay loop width="300" height="250" controls>
+  <source src="../img/animation.gif.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
