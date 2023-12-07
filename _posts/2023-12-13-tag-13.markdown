@@ -7,6 +7,17 @@ image: "img/12.jpg"
 
 ![Timmy](../img/12.jpg){:width="100%"}
 
+### Ideen für Geschenkverpackungen
+![Twisted Bow](../img/twisted_bow.png){:width="100%"}
+[Twisted Bow](https://youtu.be/-LlcO27tzro?feature=shared)
+![Fischgräten](../img/fisch.jpg){:width="100%"}
+[Fischgräten](https://pin.it/2kDXMTI)
+![Verpackung bemalt](../img/gemalt.jpg){:width="100%"}
+![Tüte](../img/verpackung.jpg){:width="100%"}
+
+
+
+
 ### Kein Geschenkpapier zur Hand?
 
 Zeitungen oder Tücher eigenen sich auch gut als Verpackungsmaterial.
