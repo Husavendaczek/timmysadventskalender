@@ -8,24 +8,41 @@ image: "img/Timmy.jpg"
 ![Timmy](../img/Timmy.jpg){:width="100%"}
 Timmy feiert heute gemeinsam mit seinen Freunden.
 
-![Amy und Lina](../img/AmyLina.jpg){:width="100%"}
-![Ben](../img/Ben.jpg){:width="100%"}
-![Pablo](../img/Pablo.jpg){:width="100%"}
-![Cookie](../img/cookie02.png){:width="100%"}
-![Flecki](../img/Flecki.jpg){:width="100%"}
-![Phil und Murphy](../img/Franziska_Phil_Murphy.jpg){:width="100%"}
-![Tiny Toast](../img/tiny_toast.jpg){:width="100%"}
-![Pablo](../img/Manu_Pablo.jpg){:width="100%"}
-![Portos](../img/Portos_Schutzbunker_Jenny.jpg){:width="100%"}
-![Robert](../img/robert.png){:width="100%"}
-![Sonja](../img/Sebastian_Sonja04.jpeg){:width="100%"}
-![Tobias](../img/thomas_tobias.png){:width="100%"}
-![Jasper](../img/Moritz_Jasper.jpeg){:width="100%"}
-![Jonny](../img/Monika_Jonny.png){:width="100%"}
-![Lina](../img/Martin_Lina.jpeg){:width="100%"}
-![Phil und Murphy](../img/PhilUndMurphy.png){:width="100%"}
-![Temmie](../img/Kailex_Temmie.jpeg){:width="100%"}
-![Ben](../img/Luca_Ben_Weiterbildung.jpg){:width="100%"}
-![Diego](../img/Diego.png){:width="100%"}
-![Heino](../img/Heino_Emil_close.jpg){:width="100%"}
-![Sonja](../img/Sebastian_Sonja02.png){:width="100%"}
+|   |   |
+|:---:|:---:|
+| ![Tiny Toast](../img/tiny_toast.jpg){:width="100%"} | ![Murphy](../img/murphy_02.jpg){:width="100%"} |
+| Tiny Toast | Murphy |
+| ![Pablo](../img/Pablo.jpg){:width="100%"} | ![Cashina](../img/cashina_03.jpg){:width="100%"} |
+| Pablo | Cashina |
+| ![Flecki](../img/Flecki.jpg){:width="100%"} | ![Mr Midnight](../img/mr_midnight.jpg){:width="100%"} |
+| Flecki | Mr Midnight |
+| ![Amy und Lina](../img/AmyLina.jpg){:width="100%"} | ![Phil und Murphy](../img/Franziska_Phil_Murphy.jpg){:width="100%"} |
+| Amy und Lina | Phil und Murphy |
+| ![Jonny](../img/Monika_Jonny.png){:width="100%"} | ![Murphy](../img/murphy_04.jpg){:width="100%"} |
+| Jonny | Murphy |
+| ![Sonja](../img/Sebastian_Sonja04.jpeg){:width="100%"} | ![Tobias](../img/thomas_tobias.png){:width="100%"} |
+| Sonja | Tobias |
+| ![Jasper](../img/Moritz_Jasper.jpeg){:width="100%"} | ![Portos](../img/Portos_Schutzbunker_Jenny.jpg){:width="100%"} |
+| Jasper | Portos |
+| ![Lina](../img/Martin_Lina.jpeg){:width="100%"} | ![Phil und Murphy](../img/PhilUndMurphy.png){:width="100%"} |
+| Lina | Phil und Murphy |
+| ![Cashina](../img/cashina_01.jpg){:width="100%"} | ![Ben](../img/Luca_Ben_Weiterbildung.jpg){:width="100%"} |
+| Cashina | Ben |
+| ![Sonja](../img/Sebastian_Sonja02.png){:width="100%"} | ![Haku](../img/haku.jpg){:width="100%"} |
+| Sonja |   |
+| ![Pablo](../img/Manu_Pablo.jpg){:width="100%"} | ![Temmie](../img/Kailex_Temmie.jpeg){:width="100%"} |
+| Pablo | Temmie |
+| ![Cookie](../img/cookie02.png){:width="100%"} | ![Tobias](../img/thomas_tobias02.png){:width="100%"} |
+| Cookie | Tobias |
+| ![Cashina](../img/cashina_04.jpg){:width="100%"} | ![Murphy](../img/murphy_01.jpg){:width="100%"} |
+| Cashina | Murphy|
+| ![Heino](../img/Heino_Emil_close.jpg){:width="100%"} | ![Ben](../img/Ben.jpg){:width="100%"} |
+| Heino | Ben |
+| ![Murphy](../img/murphy_06.jpg){:width="100%"} | ![Diego](../img/Diego.png){:width="100%"} |
+| Murphy | Diego |
+| ![Robert](../img/robert.png){:width="100%"} | ![Murphy](../img/murphy_05.jpg){:width="100%"} |
+| Robert | Murphy |
+| ![Tiny Toast](../img/tiny_toast_01.jpg){:width="100%"} | ![Cashina](../img/cashina_02.jpg){:width="100%"} |
+| Tiny Toast | Cashina |
+| ![Ben](../img/luca_ben_christmas.jpeg){:width="100%"} | ![Sonja](../img/Sebastian_Sonja03.png){:width="100%"} |
+| Ben | Sonja |
