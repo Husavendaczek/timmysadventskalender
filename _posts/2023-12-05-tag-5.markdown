@@ -1,9 +1,0 @@
----
-title:  "5. Türchen"
-date:   2023-12-05 00:00:00 +0100
-subtitle: "Timmy dekoriert weihnachtlich."
-image: "img/9.jpg"
----
-![Timmy](../img/185.JPG){:width="100%"}
-Nachdem Timmy sich den alten Adventskalender nochmal angesehen hat, dekoriert er weihnachtlich.
-![Timmy](../img/9.jpg){:width="100%"}

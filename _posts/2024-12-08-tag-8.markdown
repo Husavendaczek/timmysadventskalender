@@ -1,11 +1,12 @@
 ---
-title:  "13. Türchen"
-date:   2023-12-13 00:00:00 +0100
+title:  "8. Türchen"
+date:   2024-12-08 00:00:00 +0100
 subtitle: "Timmy verpackt die Geschenke."
 image: "img/12.jpg"
 ---
 
 ![Timmy](../img/12.jpg){:width="100%"}
+Timmy hat keine Zeit, die zweite Kerze anzuzünden und verpackt stattdessen Weihnachtsgeschenke.
 
 ### Ideen für Geschenkverpackungen
 ![Twisted Bow](../img/twisted_bow.png){:width="100%"}
@@ -14,7 +15,6 @@ image: "img/12.jpg"
 [Fischgräten](https://pin.it/2kDXMTI)
 ![Verpackung bemalt](../img/gemalt.jpg){:width="100%"}
 ![Tüte](../img/verpackung.jpg){:width="100%"}
-
 
 
 

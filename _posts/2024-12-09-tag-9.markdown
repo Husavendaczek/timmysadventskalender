@@ -1,0 +1,11 @@
+---
+title:  "9. Türchen"
+date:   2024-12-09 00:00:00 +0100
+subtitle: "Timmy liebt die alten Brickmakers Adventskalender"
+image: "img/4.jpg"
+---
+
+Timmy schwelgt in Erinnerungen und schaut sich alte Adventskalender an.
+![Timmy](../img/185.JPG){:width="100%"}
+![Timmy](../img/4.jpg){:width="100%"}
+![Timmy](../img/img_10.jpg){:width="100%"}

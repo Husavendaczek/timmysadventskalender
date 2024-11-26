@@ -1,9 +1,9 @@
 ---
 title:  "6. Türchen"
-date:   2023-12-06 00:00:00 +0100
+date:   2024-12-06 00:00:00 +0100
 subtitle: "Timmy freut sich über den Nikolaus."
 image: "img/6.jpg"
 ---
 
 ![Timmy](../img/6.jpg){:width="100%"}
-Timmy hofft, dass er seine Schuhe sauber genug geputzt hat.
+Timmy ist außer sich, den Nikolaus zu sehen und hofft, dass sein Stiefel reichlich gefüllt ist.

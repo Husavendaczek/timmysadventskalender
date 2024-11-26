@@ -1,0 +1,12 @@
+---
+title:  "2. Türchen"
+date:   2024-12-02 00:00:00 +0100
+subtitle: "Timmy feiert seinen 10. Geburtstag"
+image: "img/birthday.jpg"
+---
+
+![Timmy](../img/birthday.jpg){:width="100%"}
+Timmy feiert seinen ersten runden Geburtstag und freut sich über sein Wohlbefinden.
+
+![Timmy](../img/2.jpg){:width="100%"}
+Timmy lässt den Abend entspannt ausklingen, indem er auf Pinterest, YouTube und Instagram nach weihnachtlicher Inspiration sucht.

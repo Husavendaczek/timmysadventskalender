@@ -1,9 +1,11 @@
 ---
-title:  "1. Türchen"
-date:   2023-12-01 00:00:00 +0100
+title:  "3. Türchen"
+date:   2024-12-03 00:00:00 +0100
 subtitle: "Timmy backt Plätzchen."
 image: "img/1.jpg"
 ---
+
+Wer auch noch keine Plätzchen gebacken hat, kann morgen nach der Arbeit im Büro backen :D
 
 ![Timmy](../img/1.jpg){:width="100%"}
 
@@ -29,7 +31,7 @@ image: "img/1.jpg"
 4. Vanillezucker und Puderzucker in einer kleinen Schüssel mischen. Die gebackenen Kipferl auf dem Blech zusammenschieben, mit der Zuckermischung bestreuen und auskühlen lassen.
 
 ## Cashew-Karamell-Herzen
-### Zutaten für den Karamell
+### Zutaten für das Karamell
 * 60g Zucker
 * 40g Cashewkerne
 * etwas Fleur de Sel
