@@ -7,11 +7,17 @@ image: "img/Timmy.jpg"
 
 ![Timmy](../img/Timmy.jpg){:width="100%"}
 Timmy feiert heute gemeinsam mit seinen Freunden.
+Für alle Filmfreunde: Timmys Klassiker ["Die Datenbank"](https://youtu.be/2GWhJHX6r70?feature=shared) (2020)
+
 
 |   |   |
 |:---:|:---:|
-| ![Baksa](../img/baksa.jpg){:width="100%"} | ![TODO](../img/todo.jpg){:width="100%"} |
-| Baksa | TODO |
+| ![Baksa](../img/baksa.jpg){:width="100%"} | ![Baksa](../img/baksa_tree.jpg){:width="100%"} |
+| Baksa | Baksa |
+|   |   |
+|:---:|:---:|
+| ![Baksa](../img/baksa_eat.jpg){:width="100%"} | ![Baksa](../img/baksa_dream.jpg){:width="100%"} |
+| Baksa | Baksa |
 |   |   |
 | ![Tiny Toast](../img/tiny_toast.jpg){:width="100%"} | ![Murphy](../img/murphy_02.jpg){:width="100%"} |
 | Tiny Toast | Murphy |
