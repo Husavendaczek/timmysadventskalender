@@ -15,7 +15,12 @@ Für alle Filmfreunde: Timmys Klassiker ["Die Datenbank"](https://youtu.be/2GWhJ
 | ![Baksa](../img/baksa.jpg){:width="100%"} | ![Baksa](../img/baksa_tree.jpg){:width="100%"} |
 | Baksa | Baksa |
 |   |   |
-|:---:|:---:|
+| ![TinyToast](../img/tinyToast.png){:width="100%"} | ![Kai](../img/katze1.jpg){:width="100%"} |
+| Tiny Toast |  |
+|   |   |
+| ![Haku](../img/haku2.png){:width="100%"} | ![Totoro](../img/totoro.jpg){:width="100%"} |
+| Haku | Totoro |
+|   |   |
 | ![Baksa](../img/baksa_eat.jpg){:width="100%"} | ![Baksa](../img/baksa_dream.jpg){:width="100%"} |
 | Baksa | Baksa |
 |   |   |
@@ -24,6 +29,9 @@ Für alle Filmfreunde: Timmys Klassiker ["Die Datenbank"](https://youtu.be/2GWhJ
 |   |   |
 | ![Pablo](../img/Pablo.jpg){:width="100%"} | ![Cashina](../img/cashina_03.jpg){:width="100%"} |
 | Pablo | Cashina |
+|   |   |
+| ![Kai](../img/katze2.jpg){:width="100%"} | ![Jasper](../img/jasper.jpg){:width="100%"} |
+|  | Jasper |
 |   |   |
 | ![Flecki](../img/Flecki.jpg){:width="100%"} | ![Mr Midnight](../img/mr_midnight.jpg){:width="100%"} |
 | Flecki | Mr Midnight |
