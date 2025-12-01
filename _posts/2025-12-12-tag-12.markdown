@@ -1,28 +1,76 @@
 ---
 title:  "12. Türchen"
 date:   2025-12-12 00:00:00 +0100
-subtitle: "Timmy singt klassische Weihnachtslieder."
-image: "img/17.jpg"
+subtitle: "Timmy wünscht euch viel Spaß auf der Brickmakers Weihnachtsfeier."
+image: "img/Timmy.jpg"
 ---
 
-![Timmy](../img/17.jpg){:width="100%"}
-Timmy trainiert seine wunderbare Stimme, indem er viele Weihnachtslieder singt.
+![Timmy](../img/Timmy.jpg){:width="100%"}
+Timmy feiert heute gemeinsam mit seinen Freunden.
+Für alle Filmfreunde: Timmys Klassiker ["Die Datenbank"](https://youtu.be/2GWhJHX6r70?feature=shared) (2020)
 
-## Weihnachtslieder
-[Alle Jahre wieder](https://weihnachten.tagesspiegel.de/alle-jahre-wieder/)
-[Es ist ein Ros entsprungen](https://weihnachten.tagesspiegel.de/es-ist-ein-ros-entsprungen/)
-[Fröhliche Weihnacht überall](https://weihnachten.tagesspiegel.de/froehliche-weihnacht-ueberall/)
-[Ihr Kinderlein kommet](https://weihnachten.tagesspiegel.de/ihr-kinderlein-kommet/)
-[Kling, Glöckchen, klingelingeling](https://weihnachten.tagesspiegel.de/kling-gloeckchen-klingelingeling/)
-[Lasst uns froh und munter sein](https://weihnachten.tagesspiegel.de/lasst-uns-froh-und-munter-sein/)
-[Leise rieselt der Schnee](https://weihnachten.tagesspiegel.de/leise-rieselt-der-schnee/)
-[Macht hoch die Tür](https://weihnachten.tagesspiegel.de/macht-hoch-die-tuer/)
-[Morgen Kinder wird's was geben](https://weihnachten.tagesspiegel.de/morgen-kinder-wirds-geben/)
-[Morgen kommt der Weihnachtsmann](https://weihnachten.tagesspiegel.de/morgen-kommt-der-weihnachtsmann/)
-[O du fröhliche](https://weihnachten.tagesspiegel.de/o-du-froehliche/)
-[O Tannenbaum](https://weihnachten.tagesspiegel.de/o-tannenbaum-der-originaltext/)
-[Schneeflöckchen, Weißröckchen](https://weihnachten.tagesspiegel.de/schneefloeckchen-weissroeckchen/)
-[Stille Nacht, heilige Nacht](https://weihnachten.tagesspiegel.de/stille-nacht-heilige-nacht/)
-[Süßer die Glocken nie klingen](https://weihnachten.tagesspiegel.de/suesser-die-glocken-nie-klingen/)
-[Tochter Zion, freue dich!](https://weihnachten.tagesspiegel.de/tochter-zion-freue-dich/)
-[Vom Himmel hoch da komm ich her](https://weihnachten.tagesspiegel.de/vom-himmel-hoch-da-komm-ich/)
+
+|   |   |
+|:---:|:---:|
+| ![Baksa](../img/baksa.jpg){:width="100%"} | ![Baksa](../img/baksa_tree.jpg){:width="100%"} |
+| Baksa | Baksa |
+|   |   |
+| ![TinyToast](../img/tinyToast.png){:width="100%"} | ![Kai](../img/katze1.jpg){:width="100%"} |
+| Tiny Toast |  |
+|   |   |
+| ![Haku](../img/haku2.png){:width="100%"} | ![Totoro](../img/totoro.jpg){:width="100%"} |
+| Haku | Totoro |
+|   |   |
+| ![Baksa](../img/baksa_eat.jpg){:width="100%"} | ![Baksa](../img/baksa_dream.jpg){:width="100%"} |
+| Baksa | Baksa |
+|   |   |
+| ![Tiny Toast](../img/tiny_toast.jpg){:width="100%"} | ![Murphy](../img/murphy_02.jpg){:width="100%"} |
+| Tiny Toast | Murphy |
+|   |   |
+| ![Pablo](../img/Pablo.jpg){:width="100%"} | ![Cashina](../img/cashina_03.jpg){:width="100%"} |
+| Pablo | Cashina |
+|   |   |
+| ![Kai](../img/katze2.jpg){:width="100%"} | ![Jasper](../img/jasper.jpg){:width="100%"} |
+|  | Jasper |
+|   |   |
+| ![Flecki](../img/Flecki.jpg){:width="100%"} | ![Mr Midnight](../img/mr_midnight.jpg){:width="100%"} |
+| Flecki | Mr Midnight |
+|   |   |
+| ![Amy und Lina](../img/AmyLina.jpg){:width="100%"} | ![Phil und Murphy](../img/Franziska_Phil_Murphy.jpg){:width="100%"} |
+| Amy und Lina | Phil und Murphy |
+|   |   |
+| ![Jonny](../img/Monika_Jonny.png){:width="100%"} | ![Murphy](../img/murphy_04.jpg){:width="100%"} |
+| Jonny | Murphy |
+|   |   |
+| ![Ben](../img/luca_ben_christmas.jpeg){:width="100%"} | ![Tobias](../img/thomas_tobias.png){:width="100%"} |
+| Ben | Tobias |
+|   |   |
+| ![Jasper](../img/Moritz_Jasper.jpeg){:width="100%"} | ![Portos](../img/Portos_Schutzbunker_Jenny.jpg){:width="100%"} |
+| Jasper | Portos |
+|   |   |
+| ![Lina](../img/Martin_Lina.jpeg){:width="100%"} | ![Phil und Murphy](../img/PhilUndMurphy.png){:width="100%"} |
+| Lina | Phil und Murphy |
+|   |   |
+| ![Cashina](../img/cashina_01.jpg){:width="100%"} | ![Ben](../img/Luca_Ben_Weiterbildung.jpg){:width="100%"} |
+| Cashina | Ben |
+|   |   |
+| ![Murphy](../img/murphy_06.jpg){:width="100%"} | ![Haku](../img/haku.jpg){:width="100%"} |
+| Murphy | Haku |
+|   |   |
+| ![Pablo](../img/Manu_Pablo.jpg){:width="100%"} | ![Temmie](../img/Kailex_Temmie.jpeg){:width="100%"} |
+| Pablo | Temmie |
+|   |   |
+| ![Cookie](../img/cookie02.png){:width="100%"} | ![Tobias](../img/thomas_tobias02.png){:width="100%"} |
+| Cookie | Tobias |
+|   |   |
+| ![Cashina](../img/cashina_04.jpg){:width="100%"} | ![Murphy](../img/murphy_01.jpg){:width="100%"} |
+| Cashina | Murphy|
+|   |   |
+| ![Heino](../img/Heino_Emil_close.jpg){:width="100%"} | ![Ben](../img/Ben.jpg){:width="100%"} |
+| Heino | Ben |
+|   |   |
+| ![Robert](../img/robert.png){:width="100%"} | ![Murphy](../img/murphy_05.jpg){:width="100%"} |
+| Robert | Murphy |
+|   |   |
+| ![Tiny Toast](../img/tiny_toast_01.jpg){:width="100%"} | ![Cashina](../img/cashina_02.jpg){:width="100%"} |
+| Tiny Toast | Cashina |

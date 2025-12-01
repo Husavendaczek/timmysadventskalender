@@ -1,12 +1,10 @@
 ---
 title:  "21. Türchen"
 date:   2025-12-21 00:00:00 +0100
-subtitle: "Timmy schmückt den Baum."
-image: "img/22.jpg"
+subtitle: "Timmy zündet die vierte Kerze an"
+image: "img/20.jpg"
 ---
 
-![Timmy](../img/22.jpg){:width="100%"}
-Timmy schmückt den Baum...
-
-![Timmy](../img/11.jpg){:width="100%"}
-und macht es sich danach mit ein paar leckeren Plätzchen richtig gemütlich.
+![Timmy](../img/20.jpg){:width="100%"}
+Timmy weiß, es ist bald so weit und freut sich über den hellen Kerzenschein.
+Er wünscht euch einen schönen 4. Advent!

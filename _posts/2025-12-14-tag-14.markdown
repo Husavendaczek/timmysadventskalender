@@ -1,27 +1,9 @@
 ---
 title:  "14. Türchen"
 date:   2025-12-14 00:00:00 +0100
-subtitle: "Timmy macht Weihnachtspunsch."
-image: "img/14.jpg"
+subtitle: "Timmy zündet die dritte Kerze an."
+image: "img/13.jpg"
 ---
 
-![Timmy](../img/14.jpg){:width="100%"}
-
-## Kinderpunsch - das einfache Grundrezept:
-### Zutaten für 6 Gläser
-* 4 Beutel roter Früchtetee 
-* 2  Zimtstangen 
-* 2 Stück Sternanis 
-* 2 Beutel Glühweingewürz 
-* 2  Bio-Orangen 
-* 1/2 l klarer Apfelsaft 
-* Honig nach Belieben 
-
-### Zubereitung
-Dauer: 20 Minuten
-
-1. Teebeutel, Zimtstangen, Sternanis und Glühweingewürz mit 2 Liter kochendem Wasser überbrühen und 5 Minuten ziehen lassen.
-
-2. 1 Orange auspressen. Zweite Orange heiß abwaschen, trockenreiben und in Scheiben schneiden.
-
-3. Teebeutel aus dem Tee nehmen. Orangensaft, Orangenscheiben und Apfelsaft zum Tee geben. Nach Belieben mit etwas Honig süßen. Heiß servieren.
+![Timmy](../img/13.jpg){:width="100%"}
+Timmy wünscht euch einen schönen dritten Advent!
