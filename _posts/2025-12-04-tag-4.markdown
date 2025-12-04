@@ -15,7 +15,8 @@ image: "img/3.jpg"
 
 [Stern falten ](https://www.youtube.com/watch?v=i89JU15mQ8U)
 
-[Papier Diamanten falten](https://www.youtube.com/watch?v=oy0kfmsk5z0)
+Schneeflocken ausschneiden
+![Schneeflocken](../img/Screenshot_20251204-062102.png){:width="70%"}
 
 [Korkuntersetzer bemalen](https://www.edding.com/de-de/ideen/idee/korkuntersetzer-bemalen/)
 
