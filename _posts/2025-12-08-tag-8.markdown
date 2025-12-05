@@ -6,7 +6,7 @@ image: "img/12.jpg"
 ---
 
 ![Timmy](../img/12.jpg){:width="100%"}
-Timmy hat keine Zeit, die zweite Kerze anzuzünden und verpackt stattdessen Weihnachtsgeschenke.
+Timmy hat verpackt Weihnachtsgeschenke.
 
 ### Ideen für Geschenkverpackungen
 ![Twisted Bow](../img/twisted_bow.png){:width="100%"}

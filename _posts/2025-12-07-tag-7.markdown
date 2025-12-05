@@ -6,7 +6,7 @@ image: "img/5.jpg"
 ---
 
 ![Timmy](../img/5.jpg){:width="100%"}
-Timmy wünscht euch einen schönen 1. Advent!
+Timmy wünscht euch einen schönen 2. Advent!
 
 ## Timmys Weihnachtsfilmliste auf Netflix:
 ### Holidate
