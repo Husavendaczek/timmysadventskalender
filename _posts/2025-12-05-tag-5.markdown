@@ -5,4 +5,8 @@ subtitle: "Timmy dekoriert"
 image: "img/9.jpg"
 ---
 ![Timmy](../img/9.jpg){:width="100%"}
-Danach dekoriert Timmy noch weihnachtlich, um den Nikolaus zu beeindrucken.
+Timmy dekoriert weihnachtlich, um den Nikolaus zu beeindrucken.
+Er hat ja keine Schuhe, die er putzen kann (und Plätzchen möchte er nicht teilen).
+
+![Timmy](../img/179.jpg){:width="100%"}
+![Timmy](../img/16.jpg){:width="100%"}
