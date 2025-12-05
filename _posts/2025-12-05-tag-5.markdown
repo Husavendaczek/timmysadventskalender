@@ -1,11 +1,8 @@
 ---
 title:  "5. Türchen"
 date:   2025-12-05 00:00:00 +0100
-subtitle: "Timmy liebt den Brickmakers Adventskalender."
-image: "img/2024.jpg"
+subtitle: "Timmy dekoriert"
+image: "img/9.jpg"
 ---
-![Timmy](../img/2024.jpg){:width="100%"}
-Timmy ist begeistert vom diesjährigen Brickmakers Adventskalender.
-
 ![Timmy](../img/9.jpg){:width="100%"}
 Danach dekoriert Timmy noch weihnachtlich, um den Nikolaus zu beeindrucken.
